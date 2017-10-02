@@ -1,0 +1,129 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+AddF5PoolMember_16					BITMAP					"Resources\\AddF5PoolMember_16.bmp"
+AddF5PoolMember_32					BITMAP					"Resources\\AddF5PoolMember_32.bmp"
+GetF5PoolMember_16					BITMAP					"Resources\\GetF5PoolMember_16.bmp"
+GetF5PoolMember_32					BITMAP					"Resources\\GetF5PoolMember_32.bmp"
+DeleteF5PoolMember_16				BITMAP					"Resources\\DeleteF5PoolMember_16.bmp"
+DeleteF5PoolMember_32				BITMAP					"Resources\\DeleteF5PoolMember_32.bmp"
+DeleteF5Pool_16						BITMAP					"Resources\\DeleteF5Pool_16.bmp"
+DeleteF5Pool_32						BITMAP					"Resources\\DeleteF5Pool_32.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 3,0,0,1
+ PRODUCTVERSION 3,0,0,0
+ FILEFLAGSMASK 0x17L
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName", "www.DamianFlynn.com"
+            VALUE "FileDescription", "Orchestrator Icon Resources"
+            VALUE "FileVersion", "3, 0, 0, 1"
+            VALUE "InternalName", "QIK"
+            VALUE "LegalCopyright", "Copyright Damian Flynn (C) 2011"
+            VALUE "OriginalFilename", "QIK.Wizard.Images"
+            VALUE "ProductName", "Orchestrator F5 Icon Pack"
+            VALUE "ProductVersion", "3, 0, 0, 0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+
+IDI_ICON1               ICON                    "Resources\\AddF5PoolMember.ico"
+IDI_ICON2               ICON                    "Resources\\GetF5PoolMember.ico"
+IDI_ICON3               ICON                    "Resources\\DeleteF5PoolMember.ico"
+IDI_ICON4               ICON                    "Resources\\DeleteF5Pool.ico"
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
